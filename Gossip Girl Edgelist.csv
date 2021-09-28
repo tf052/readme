@@ -1,8 +1,8 @@
 from,to,weight,relationship
 S,B,2,1
-"S,N,2,4
+S,N,2,4
 S,D,2,4
-"S,C,2,2
+S,C,2,2
 B,S,2,1
 B,N,2,4
 B,D,2,4
