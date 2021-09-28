@@ -1,7 +1,7 @@
 id,name,sex,haircolour,,,,
-"S,Serena,1,2,,,sex,""1 = female, 2 = male"""
+"S,Serena,1,2,,,
 B,Blair,1,1,,,,
-"C,Chuck,2,1,,,haircolour,""1 = brown, 2 = blond, 3 = black"""
+"C,Chuck,2,1,,,
 D,Dan,2,1,,,,
 N,Nate,2,2,,,,
 J,Jenny,1,2,,,,
