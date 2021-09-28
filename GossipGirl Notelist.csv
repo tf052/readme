@@ -1,8 +1,8 @@
-id,name,sex,haircolour,,,,
-"S,Serena,1,2,,,
-B,Blair,1,1,,,,
-"C,Chuck,2,1,,,
-D,Dan,2,1,,,,
-N,Nate,2,2,,,,
-J,Jenny,1,2,,,,
-V,Vanessa,1,3,,,,
+id,name,sex,haircolour
+S,Serena,1,2
+B,Blair,1,1
+C,Chuck,2,1
+D,Dan,2,1
+N,Nate,2,2
+J,Jenny,1,2
+V,Vanessa,1,3
