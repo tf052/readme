@@ -1,8 +1,8 @@
 from,to,weight,relationship,,,,
 S,B,2,1,,,,
-"S,N,2,4,,,relationship,"" 1 = friends, 2 = family, 3 = partners 4 = ex-partners"""
+"S,N,2,4,,,
 S,D,2,4,,,,
-"S,C,2,2,,,weight,""1 = weak, 2 = strong"""
+"S,C,2,2,,,
 B,S,2,1,,,,
 B,N,2,4,,,,
 B,D,2,4,,,,
